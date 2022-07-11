@@ -31,11 +31,28 @@
 
 ### Screenshots:
 
-- Index Page 1
-![Index Page1](https://github.com/Nimo014/JPDB-EMPLOYEE-FORM/blob/main/assest/index1.png)
+- Login Page
+![Login Page](https://github.com/Nimo014/HR-Admin-Dashboard/blob/main/assets/login%20page.png)
 
-- Index Page 2
-![Index Page2](https://github.com/Nimo014/JPDB-EMPLOYEE-FORM/blob/main/assest/index2.png)
+- Registraton Page
+![Registraton Page](https://github.com/Nimo014/HR-Admin-Dashboard/blob/main/assets/registration%20page.png)
+
+- Forgot Password Page
+![Forgot Password Page](https://github.com/Nimo014/HR-Admin-Dashboard/blob/main/assets/forgot%20password%20page.png)
+
+- Home Page
+![Home Page](https://github.com/Nimo014/HR-Admin-Dashboard/blob/main/assets/home%20page.png)
+
+- Profile Page
+![Profile Page](https://github.com/Nimo014/HR-Admin-Dashboard/blob/main/assets/profile%20page.png)
+
+- Add Employee Page
+![Add Employee Page](https://github.com/Nimo014/HR-Admin-Dashboard/blob/main/assets/add%20employee%20page.png)
+
+- Change Password Page
+![Change Password Page](https://github.com/Nimo014/HR-Admin-Dashboard/blob/main/assets/change%20password.png)
+
+
 
 ## Release History
 
