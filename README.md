@@ -9,9 +9,9 @@
 
 ### Website file structure and navigation behaviour:-
 - login page contain email and password credential.
-- registration page consite user details like name,email,phone,password.
+- registration page consite user details like name, email, phone, password.
 - home page consist of Dashboard, Profile(for displaying HR details), Add employee (refer this [Link](https://github.com/Nimo014/JPDB-EMPLOYEE-FORM)),change password and logout option (delete session).
-- forgot password which uses SMPTP protocol to send password for corresponding email.
+- forgot password which uses SMTP protocol to send password for corresponding email.
 - If session exist then login page directly re-direct to home page without login. Similarly, if user directly visit home page and if session key doesn't exist then it will re-direct to login page and ask for credentials for login.
 
 
